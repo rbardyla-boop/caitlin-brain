@@ -1,9 +1,17 @@
+---
+title: "Examples"
+---
+
 # Examples
 
 This directory contains real outputs from caitlin-brain runs, plus seed packs for dogfooding.
 
-## First Leap (2026-06)
+## Leaps
 
-`first-leap--maximal-novelty-ai-scientists.md` — generated from the meta-seed (the vision + plan + charter itself as personal clues) + public 2025-2026 literature on AI Scientist / Co-Scientist / Robin systems.
+- `first-leap--maximal-novelty-ai-scientists.md` — Meta-seed on AI systems for automated scientific discovery (the founding leap that created this repo). Phase 0 / early Phase 1 manual council run.
 
-This is the proof-of-life output. Fully traceable, critic-reviewed in spirit, non-obvious recombination proposed.
+- `leap-003--analogical-teleportation-primitive-for-continual-rl-in-foundation-ml-agents.md` — First execution on a public technical seed (Machine Learning + Continual Learning + Reinforcement Learning). Strong version (C): early analogical teleportation primitive + personal vault-style context packs as the steering "minimal visible L". Generated after Phase 1 S2 Scout + SPECTER2 + ingester foundation was wired.
+
+## How to Add Your Own
+
+See the main README for instructions on running (or requesting) new leaps against your own literature clusters or exported context packs.

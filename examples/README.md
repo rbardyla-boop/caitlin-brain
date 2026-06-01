@@ -8,12 +8,14 @@ This directory contains real outputs from caitlin-brain runs, plus seed packs fo
 
 ## Leaps
 
-- `first-leap--maximal-novelty-ai-scientists.md` — Meta founding leap on AI systems for automated scientific discovery.
+- `first-leap--maximal-novelty-ai-scientists.md` — Meta founding leap.
 
-- `leap-003--analogical-teleportation-primitive-for-continual-rl-in-foundation-ml-agents.md` — Public seed on ML + Continual Learning + Reinforcement Learning. Strong C version (early teleportation primitive + personal context packs).
+- `leap-003--analogical-teleportation-primitive-for-continual-rl-in-foundation-ml-agents.md` — ML + Continual Learning + Reinforcement Learning (strong C version).
 
-- `leap-004--personal-open-loops-and-guardrails-as-first-class-primitives-for-long-lived-research-agents.md` — First leap using the actual personal memory system (Screenpipe-to-Obsidian / memcore philosophy and artifacts) as the high-signal context pack. Treats open loops, evaporating tasks, directory classes, and guardrails as first-class primitives for long-lived research agents.
+- `leap-004--personal-open-loops-and-guardrails-as-first-class-primitives-for-long-lived-research-agents.md` — Personal memory structures (open loops, guardrails) as first-class agent primitives.
+
+- `leap-005--hive-mind-edge-swarms-as-adhoc-servers-in-decentralized-world-arcade-with-agent-micropayments.md` — Edge device hive swarms as ad-hoc infrastructure for a decentralized world arcade, with autonomous agent micropayments (x402-style), steered by personal context packs. Synthesis incorporating prior leaps on continual adaptation and personal steering.
 
 ## How to Add Your Own
 
-Provide a small personal literature pack (notes + gaps + open questions) and request the next leap.
+Provide a small personal literature pack or name a public topic cluster.

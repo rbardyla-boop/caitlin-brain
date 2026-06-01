@@ -8,10 +8,12 @@ This directory contains real outputs from caitlin-brain runs, plus seed packs fo
 
 ## Leaps
 
-- `first-leap--maximal-novelty-ai-scientists.md` — Meta-seed on AI systems for automated scientific discovery (the founding leap that created this repo). Phase 0 / early Phase 1 manual council run.
+- `first-leap--maximal-novelty-ai-scientists.md` — Meta founding leap on AI systems for automated scientific discovery.
 
-- `leap-003--analogical-teleportation-primitive-for-continual-rl-in-foundation-ml-agents.md` — First execution on a public technical seed (Machine Learning + Continual Learning + Reinforcement Learning). Strong version (C): early analogical teleportation primitive + personal vault-style context packs as the steering "minimal visible L". Generated after Phase 1 S2 Scout + SPECTER2 + ingester foundation was wired.
+- `leap-003--analogical-teleportation-primitive-for-continual-rl-in-foundation-ml-agents.md` — Public seed on ML + Continual Learning + Reinforcement Learning. Strong C version (early teleportation primitive + personal context packs).
+
+- `leap-004--personal-open-loops-and-guardrails-as-first-class-primitives-for-long-lived-research-agents.md` — First leap using the actual personal memory system (Screenpipe-to-Obsidian / memcore philosophy and artifacts) as the high-signal context pack. Treats open loops, evaporating tasks, directory classes, and guardrails as first-class primitives for long-lived research agents.
 
 ## How to Add Your Own
 
-See the main README for instructions on running (or requesting) new leaps against your own literature clusters or exported context packs.
+Provide a small personal literature pack (notes + gaps + open questions) and request the next leap.

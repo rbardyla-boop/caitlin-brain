@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+*.swp
+*.swo
+# Local caches for S2 / embeddings (Phase 1+)
+.cache/
+caitlin_cache/
+# Large model weights (never)
+*.pt
+*.bin
+*.safetensors
+*.gguf
